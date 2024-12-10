@@ -233,3 +233,4 @@ Response (returns the deleted message):
     "updatedAt": "2024-02-09T11:26:59.002Z"
 }
 ```
+# SC_ICP
